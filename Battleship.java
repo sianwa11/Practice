@@ -24,6 +24,7 @@ public class Battleship {
         playersTurn(ocean);
         computersTurn(ocean);
         victoryRoyale(ocean);
+        
     }
     
     //displays the introduction
